@@ -6,8 +6,8 @@
  
  A self-taught Full-Stack Web  Developer from Tema, Ghana. I am passionate about design, development, eating, and seeing other side of the world. I have been very fortunate to be able to do all as a career.
 
-###I consider myself as a beginner and learner 
-Here are some ideas to get you started:
+### I consider myself as a beginner and learner 
+## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Backend and also upgrading on my React Skills
