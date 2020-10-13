@@ -5,9 +5,8 @@
  ### My name is Yeboah Michael
  
  A self-taught Full-Stack Web  Developer from Tema, Ghana. I am passionate about design, development, eating, and seeing other side of the world. I have been very fortunate to be able to do all as a career.
-<!--
-**mbaah80/mbaah80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+###I consider myself as a beginner and learner 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...https://twitter.com/MOkerif/with_replies 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Friendly
--->
+
