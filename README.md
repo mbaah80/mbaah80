@@ -1,5 +1,5 @@
 
- <img src="MIC.png" width="650">
+ <img src="Mic.png" width="550">
  
  ### Hi There
  ### My name is Yeboah Michael
