@@ -1,6 +1,4 @@
 
- <img src="Mic.png" width="650">
- 
  ### Hi There
  ### My name is Yeboah Michael
  
