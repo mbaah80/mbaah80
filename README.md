@@ -8,10 +8,10 @@
 ## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Backend and also upgrading on my Vue Skills
-- 👯 I’m looking to collaborate on ...Full Stack Web development with Vue and Express
+- 🌱 I’m currently learning Backend and also upgrading on my Frontend Skills
+- 👯 I’m looking to collaborate on ...Full Stack Web development with React,  Vue and Express
 - 💬 Ask me about ...Anything related to VueJS at the moment
-- 📫 How to reach me: ...https://twitter.com/MOkerif/with_replies 
+- 📫 How to reach me: ...https://michael-yeboah.vercel.app/ 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Friendly
 
