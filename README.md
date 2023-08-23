@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning Backend and also upgrading on my Frontend Skills
 - 👯 I’m looking to collaborate on ...Full Stack Web development with React,  Vue and Express
 - 💬 Ask me about ...Anything related to VueJS at the moment
-- 📫 How to reach me: ...https://michael-yeboah.vercel.app/ 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Friendly
 
