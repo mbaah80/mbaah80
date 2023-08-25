@@ -2,7 +2,21 @@
  ### Hi There
  ### My name is Yeboah Michael
  
- A self-taught Full-Stack Web  Developer from Tema, Ghana. I am passionate about design, development, eating, and seeing other side of the world. I have been very fortunate to be able to do all as a career.
+ Hello there! I'm Michael Yeboah, a seasoned Software Engineer from Ghana. I'm all about crafting future-ready solutions using Node.js, React, and Vue.
+
+🚀 Building with #Vue and #React:
+I love working with Vue and React to create amazing user interfaces that dazzle and engage.
+
+🌐 Going #Serverless:
+Embracing serverless architecture has helped me simplify development and cut costs without compromising on performance.
+
+💪 #SoftwareEngineering Passion:
+Software engineering is my life's passion, and I thrive in fast-paced environments, continuously learning and improving.
+
+🤝 Let's Connect:
+I'm open to connecting with fellow tech enthusiasts, potential collaborators, and industry peers. Feel free to reach out!
+
+Thanks for stopping by! Let's create something exceptional together!
 
 ### I consider myself as a beginner and learner 
 ## Here are some ideas to get you started:
