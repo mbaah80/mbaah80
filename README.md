@@ -1,6 +1,5 @@
 ### Hello,
-
-I'm Michael Yeboah, a dedicated Software Engineer from Ghana with over four years of experience in the industry. My expertise lies in developing robust, future-ready solutions using technologies like Node.js, React, and Vue.
+A dedicated Software Engineer with over four years of experience in the industry. My expertise lies in developing robust, future-ready solutions using technologies like Node.js, React, and Vue.
 
 🚀 **Proficiency in Vue and React:**
 I specialize in building dynamic and responsive user interfaces using Vue and React. My focus is on creating intuitive and engaging experiences that meet both user needs and business goals.
